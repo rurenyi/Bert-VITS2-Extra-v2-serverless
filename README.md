@@ -52,3 +52,4 @@ For quick guide, please refer to `webui_preprocess.py`.
 ### /app/g2pW
 ### /app/bert
 ### /app/slm
+## 相关资源已保存
