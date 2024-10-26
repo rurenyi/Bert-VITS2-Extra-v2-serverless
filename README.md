@@ -1,9 +1,9 @@
-## 这是一个基于bert_vits的模型，自用，请勿借鉴
-## 添加了基于serverless的api,并去除了大部分其他的功能
-## 使用前记得挂载以下文件：
-### /app/data
-### /app/emotional
-### /app/g2pW
-### /app/bert
-### /app/slm
-## 相关资源已保存
+# This is a model based on bert_vits, for personal use only, please do not reference it.
+## It includes an API based on serverless architecture, with most other features removed.
+## Before use, make sure to mount the following files:
+/app/data
+/app/emotional
+/app/g2pW
+/app/bert
+/app/slm
+# Relevant resources have been saved.
